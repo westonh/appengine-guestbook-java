@@ -1,4 +1,4 @@
-aApp Engine Java Guestbook
+aaApp Engine Java Guestbook
 Copyright (C) 2010-2012 Google Inc.
 
 ## Sample guestbook for use with App Engine Java.
